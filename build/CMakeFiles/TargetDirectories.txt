@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/ТРПП/trpp_project/build/CMakeFiles/trainer.dir
+C:/Users/User/Desktop/ТРПП/trpp_project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Desktop/ТРПП/trpp_project/build/CMakeFiles/ZERO_CHECK.dir
